@@ -1,0 +1,6 @@
+{
+  "name": "NIVORA - Healthcare & Delivery Ecosystem",
+  "description": "Healthcare management ecosystem connecting patients, pharmacies, caretakers, and verified delivery partners with real-time GPS tracking and OTP verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
